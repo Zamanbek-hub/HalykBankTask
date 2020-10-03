@@ -1,0 +1,13 @@
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\bin\Debug\netcoreapp3.1\SimmleApp.exe
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\bin\Debug\netcoreapp3.1\SimmleApp.deps.json
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\bin\Debug\netcoreapp3.1\SimmleApp.runtimeconfig.json
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\bin\Debug\netcoreapp3.1\SimmleApp.runtimeconfig.dev.json
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\bin\Debug\netcoreapp3.1\SimmleApp.dll
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\bin\Debug\netcoreapp3.1\SimmleApp.pdb
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\obj\Debug\netcoreapp3.1\SimmleApp.csprojAssemblyReference.cache
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\obj\Debug\netcoreapp3.1\SimmleApp.AssemblyInfoInputs.cache
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\obj\Debug\netcoreapp3.1\SimmleApp.AssemblyInfo.cs
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\obj\Debug\netcoreapp3.1\SimmleApp.csproj.CoreCompileInputs.cache
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\obj\Debug\netcoreapp3.1\SimmleApp.dll
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\obj\Debug\netcoreapp3.1\SimmleApp.pdb
+C:\Users\zaman\Desktop\work\HalykBankTZ\task3\SimmleApp\SimmleApp\obj\Debug\netcoreapp3.1\SimmleApp.genruntimeconfig.cache

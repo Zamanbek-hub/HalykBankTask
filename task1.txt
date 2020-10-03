@@ -1,0 +1,19 @@
+Create VirtualEnV
+
+Windows!
+create: python -m venv venv 
+activate: venv\Scripts\activate.bat
+deactivate: deactivate
+
+
+
+Ubuntu!
+create: python3 -m venv venv
+activate: source venv/bin/activate
+deactivate: deactivate
+
+
+
+In my case: 
+I created on ubuntu with existing system packages:
+python3 -m venv venv --system-site-packages
